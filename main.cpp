@@ -7,7 +7,7 @@ int main(){
     s.print();
     cout << s.get_access() << endl;
 
-    // const Screen myScreen(15, 10, 'F');
+    //### const Screen myScreen(15, 10, 'F');
     // cout << myScreen.get_access() << endl;
 
 
